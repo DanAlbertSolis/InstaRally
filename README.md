@@ -1,0 +1,2 @@
+# InstaRally
+ This website uses Google map's API to allow users to create markers based on events that are happening around them. This process is extremely simple with all that is needed is information about the user and event. If connected to an actual database, this would allow people from across the world to see everyone's markers. That information is then used on another page of the website to give more insight on the specific event/rally.
