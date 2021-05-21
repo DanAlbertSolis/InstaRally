@@ -46,6 +46,9 @@ Add a friends feature
 Allow users to chat with each other to make organizing events even easier
 Safety page that contains third party links to articles
 
+[![Demo](https://img.youtube.com/vi/Pvr6w7lPC7I/0.jpg)](https://www.youtube.com/watch?v=Pvr6w7lPC7I)
+
+
 Built With
 
 css, google, html5, javascript, python
