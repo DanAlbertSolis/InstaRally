@@ -8,7 +8,8 @@ How we built it
 The team split into two groups. The first group focused on setting up the website. This included structuring the HTML and making sure every web page worked together seamlessly. The other group worked on the Google Maps API by making sure that all markers were properly placed and all details about the event were recorded and saved. Stylizing the website was a full team effort, where we each contributed our css knowledge and unique ideas to make the website as appealing as our coding skills allowed us.
 
 Challenges we ran into
-Flutter was difficult to learn quickly. We ended up scrapping our application around 5 hours in and switched to creating a website
+Flutter was difficult to learn quickly.
+We ended up scrapping our application around 5 hours in and switched to creating a website
 Working together as a team to finish a project
 Working through Covid-19
 Utilizing a variety of languages and packages: HTML, CSS, Bootstrap, JS, Google, etc and integrating it
@@ -16,18 +17,21 @@ Lack of sleep
 Updating user input in the events page
 Trouble shooting JSON issues (Storing user information so that it can be accessed on multiple webpages)
 Difference in devices (between team members)
+
 Accomplishments that we're proud of
 We're all still friends by the end of it!
 Coming together to work on a common goal
 The website is easy to use
 The markers for the Google map work as we hoped
 We completed all the goals we set out to do
+
 What we learned
 How to structure a website
 Basics to front/back-end development, Javascript, JSON file io, and Flutter
 How to implement API's into code
 How to work as a team to complete a coding project
 It is always okay to ask for help
+
 What's next for InstaRally
 Use a database to store all markers
 Create a table that displays info based off the user input
